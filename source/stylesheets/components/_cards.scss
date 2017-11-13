@@ -24,7 +24,6 @@
   position: absolute;
   bottom: 10px;
   left: 10px;
-
   h2 {
     font-size: 24px;
   }
@@ -44,7 +43,6 @@
   z-index: 2;
   background: black;
   opacity: 0;
-
   &:hover {
     opacity: 0.1;
   }
